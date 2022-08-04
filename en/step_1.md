@@ -11,9 +11,27 @@ You will:
 + Use the LED matrix to display images or text
 + Make sure your program runs for no more than thirty seconds.
 
-To see some examples, click on the **run** button and then adjust the colour in the Sense HAT emulator.
+### Try it 
+
+--- task ---
+
+Click on the **run** button and then adjust the colour in the Sense HAT emulator.
 
 <iframe src="https://trinket.io/embed/python/dc17e4a16f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+--- /task ---
+
+### Get inspiration 
+
+You are going to make some design decisions to meet the requirements of the Mission Zero challenge. These are:
+
+1. Use the colour sensor
+1. Output an image or text to the LED matrix
+1. Ensure your program runs for no more than 30 seconds.
+
+--- task ---
+
+Explore these example projects to get more ideas:
 
 <iframe src="https://trinket.io/embed/python/604972af60" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -21,58 +39,6 @@ To see some examples, click on the **run** button and then adjust the colour in 
 
 <iframe src="https://trinket.io/embed/python/a1cb1d8189" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
---- no-print ---
-
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
-
-### Try it 
-
-Description of what to do or think about when looking at the example.
-
-</div>
-<div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
-</div>
-
-</div>
-
 --- /task ---
 
-### Get inspiration 
-
-You are going to make some design decisions to ...
-
---- task ---
-
-Explore these example projects to get more ideas:
-
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
-</div>
---- /task ---
---- /no-print ---
-
---- print-only ---
-
-### Get inspiration 
-
-You are going to make some design decisions to create your character. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
-
-<mark>one image file per example</mark>
-
---- /print-only ---
 
