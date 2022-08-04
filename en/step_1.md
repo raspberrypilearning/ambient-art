@@ -1,21 +1,23 @@
 ## Introduction
 
-In this project, <mark> short project description </mark>
-
-<mark>Boxout (wherever wanted/needed) </mark>
+In this project you will use the Sense HAT colour sensor to choose text or images that will be displayed on the LED matrix of the Sense HAT.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Term**</span> description of term or interesting phrase.
+<span style="color: #0faeb0">There are two **Flight Units**</span> on the ISS, both of which contain Sense HATs. The [Astro Pi Mission Zero Challenge](https://astro-pi.org/mission-zero/) is an opportunity for you to write code and have it run in space.
 </p>
 
-<mark>Objectives in language that learners will understand</mark>
-
 You will:
-+ 
-+ 
-+
++ Take readings from the Sense HAT colour sensor 
++ Use the LED matrix to display images or text
++ Make sure your program runs for no more than thirty seconds.
 
-<mark>Image of many different examples in a strip</mark>
+
+<iframe src="https://trinket.io/embed/python/dc17e4a16f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+<iframe src="https://trinket.io/embed/python/604972af60" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+<iframe src="https://trinket.io/embed/python/019172316b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- no-print ---
 
