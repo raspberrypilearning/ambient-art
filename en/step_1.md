@@ -17,7 +17,7 @@ You will:
 
 Click on the **run** button and then adjust the colour in the Sense HAT emulator.
 
-<iframe src="https://trinket.io/embed/python/dc17e4a16f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/604972af60" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 
@@ -26,18 +26,17 @@ Click on the **run** button and then adjust the colour in the Sense HAT emulator
 You are going to make some design decisions to meet the requirements of the Mission Zero challenge. These are:
 
 1. Use the colour sensor
-1. Output an image or text to the LED matrix
+1. Output an image, animation, or colour to the LED matrix
 1. Ensure your program runs for no more than 30 seconds.
 
 --- task ---
 
 Explore these example projects to get more ideas:
 
-<iframe src="https://trinket.io/embed/python/604972af60" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
 <iframe src="https://trinket.io/embed/python/019172316b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://trinket.io/embed/python/a1cb1d8189" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/d529175079" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 --- /task ---
 
