@@ -1,16 +1,17 @@
 ---
-title: design-project-template
+title: Adaptable art
 hero_image: images/banner.png
-description: design-project-template description
+description: Create a piece of adaptable artwork that displays on the SenseHAT to match its environment.
 version: 4
 listed: false
 copyedit: false
 last_tested: '2021-03-26'
 steps:
 - title: Introduction
-- title: Step title
-- title: Step title
-- title: Step title
+- title: Design your animation
+- title: Code your animation
+- title: Sense the colour
+- title: Time your animation
 - title: Reflection
   knowledge_quiz:
     path: quiz1

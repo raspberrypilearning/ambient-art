@@ -1,38 +1,56 @@
 ## Introduction
 
-In this project you will use the Sense HAT colour sensor to choose text or images that will be displayed on the LED matrix of the Sense HAT.
+In this project you will create a piece of ambient artwork that displays on the SenseHAT to match its environment. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">There are two **Flight Units**</span> on the ISS, both of which contain Sense HATs. The [Astro Pi Mission Zero Challenge](https://astro-pi.org/mission-zero/) is an opportunity for you to write code and have it run in space.
+<span style="color: #0faeb0">Ambient lighting</span> is used by many devices to allow users to have a more immersive entertainment experience. Ambient lighting creates a mood by copying the colours of an object or image in the nearby area. For example, LED lighting strips can be placed around a television screen to replicate the most common colour being displayed in the video.
 </p>
 
-You are going to make some design decisions to meet the requirements of the Mission Zero challenge. These are:
+You will:
 
-1. Use the colour sensor to read one or more colours.
-1. Output an image, animation, or colour to the LED matrix.
-1. Ensure that your program runs for no more than 30 seconds.
++ Take readings from the SenseHAT colour sensor.
++ Design an animation that adapts to the environment
++ Create a 30 second animation using a loop 
+
+
+--- no-print ---
 
 ### Try it 
 
 --- task ---
 
-Click on the **run** button and then adjust the colour in the Sense HAT emulator.
+Click on the **run** button and then adjust the colour in the Sense HAT emulator. What change can you see in the animation? 
 
-<iframe src="https://trinket.io/embed/python/604972af60" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/040ae43756" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 
 ### Get inspiration 
 
+<mark>Add more examples when done</mark>
+
 --- task ---
 
 Explore these example projects to get more ideas:
 
+X: See inside
 <iframe src="https://trinket.io/embed/python/019172316b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+Y: See inside
 <iframe src="https://trinket.io/embed/python/d529175079" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-
 --- /task ---
+
+--- /no-print ---
+
+--- print-only ---
+![xxxx](images/solution.PNG)
+
+![xxxx](images/solution.PNG)
+
+![xxxx](images/solution.PNG)
+
+![xxxx](images/solution.PNG)
+--- /print-only ---
 
 
