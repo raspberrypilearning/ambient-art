@@ -50,6 +50,8 @@ s = (135, 206, 235) # SkyBlue
 
 **Create** your first frame. 
 
+<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 --- collapse ---
 ---
 title: Create a list to store an image
