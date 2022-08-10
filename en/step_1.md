@@ -6,10 +6,11 @@ In this project you will use the Sense HAT colour sensor to choose text or image
 <span style="color: #0faeb0">There are two **Flight Units**</span> on the ISS, both of which contain Sense HATs. The [Astro Pi Mission Zero Challenge](https://astro-pi.org/mission-zero/) is an opportunity for you to write code and have it run in space.
 </p>
 
-You will:
-+ Take readings from the Sense HAT colour sensor 
-+ Use the LED matrix to display images or text
-+ Make sure your program runs for no more than thirty seconds.
+You are going to make some design decisions to meet the requirements of the Mission Zero challenge. These are:
+
+1. Use the colour sensor to read one or more colours.
+1. Output an image, animation, or colour to the LED matrix.
+1. Ensure that your program runs for no more than 30 seconds.
 
 ### Try it 
 
@@ -22,12 +23,6 @@ Click on the **run** button and then adjust the colour in the Sense HAT emulator
 --- /task ---
 
 ### Get inspiration 
-
-You are going to make some design decisions to meet the requirements of the Mission Zero challenge. These are:
-
-1. Use the colour sensor
-1. Output an image, animation, or colour to the LED matrix
-1. Ensure your program runs for no more than 30 seconds.
 
 --- task ---
 
