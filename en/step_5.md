@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add an introductory sentence. What will learners achieve by the end of this step?
+In this step you will adjust the timings of your animation to make sure that it is under 30 seconds long.
 </div>
 <div>
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
@@ -20,7 +20,19 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 title: How long does your animation run for?
 ---
 
-If you count the values in the brackets of the `sleep()` function calls then you can see that **1 + 1 + 1 + 1 = 4** to make a **4 second** animation. 
+If you count the values in the brackets of the `sleep()` function calls then you can see that **1 + 1 + 1 + 1 = 4**. This means that one loop of your animation is **4 seconds** long. 
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: false
+line_number_start: 1
+line_highlights: 2
+---
+# --- Animation ---
+for i in range(10): # Loop 10 times
+--- /code ---
 
 The animation is within a loop which repeats it **10 times**. This means the total animation run time is **4 x 10 = 40** to make a **40 second** animation.
 
@@ -47,11 +59,11 @@ The animation is within a loop which repeats it **10 times**. This means the tot
 title: How long does your animation run for?
 ---
 
-Count up the `sleep()` seconds in your code.
+**Count up** the `sleep()` seconds in your code.
 
-Multiply the number of seconds by 10.
+**Multiply** the number of seconds by **10**.
 
-The answer is the total run time of your animation. 
+The answer is the **total run time** of your animation. 
 
 --- /collapse ---
 
@@ -110,5 +122,14 @@ Here are some example scenarios. You can use these to help you with your calcula
 --- /collapse ---
 
 --- /task ---
+
+--- task ---
+
+**Test**: Click Run and test your code. Make sure that there are no syntax errors and that the colour detection is still working. 
+
+You now have a completed animation!
+
+--- /task ---
+
 
 --- save ---
