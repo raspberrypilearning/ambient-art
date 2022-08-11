@@ -15,6 +15,8 @@ Open the [ambient art starter project](https://trinket.io/library/trinkets/4e773
 
 --- /task ---
 
+### Colour palette
+
 --- task ---
 
 Find the comment `# Colour palette` and add variables for each of the colours in your animation design: 
