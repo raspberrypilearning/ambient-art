@@ -54,9 +54,9 @@ Copy the design for your first frame into the tool below.
 
 --- task ---
 
-Find the comment `# Animation`
+Find the comment `# Frame 1`
 
-**Create** a blank list to store your colour variables. 
+**Create** a blank list to store your first frame. 
 
 --- code ---
 ---
@@ -66,7 +66,7 @@ line_numbers:
 line_number_start: 1
 line_highlights: 2-4
 ---
-# Animation
+# Frame 1
 frame_1 = [
 
           ]
@@ -76,7 +76,7 @@ frame_1 = [
 
 --- task ---
 
-**Highlight** the values in the image creation tool above. 
+**Highlight** the values in the frame creation tool above. 
 
 **Copy** and **paste** them inside your blank list. 
 
@@ -92,7 +92,7 @@ line_numbers: true
 line_number_start: 
 line_highlights: 
 ---
-# Animation
+# Frame 1
 frame_1 = [
   b, b, l, l, f, l, b, b,
   b, l, f, l, l, l, f, b,
@@ -113,7 +113,7 @@ frame_1 = [
 
 --- task ---
 
-Underneath your `frame_1` list, enter the code for displaying the colour values from your `frame_1` list onto your SenseHAT LED matrix and make it `sleep` for 1 second.
+Underneath your `frame_1` list, enter the code for displaying your first frame on the SenseHAT LED matrix and make it `sleep` for 1 second.
 
 --- code ---
 ---
@@ -123,6 +123,7 @@ line_numbers: false
 line_number_start: 1
 line_highlights: 11-12
 ---
+# Frame 1
 frame_1 = [
   b, b, l, l, f, l, b, b,
   b, l, f, l, l, l, f, b,
@@ -157,11 +158,11 @@ I have a syntax error in my code!
 
 ### Create the remaining frames
 
-**Repeat** the next two tasks for `frame_2`, `frame_3` and `frame_4`. 
+**Repeat** the next two tasks for the remaining frames. 
 
 --- task ---
 
-Use the tool below to make the next frame for your animation. 
+Use the tool below to make the remaining frames for your animation. 
 
 --- /task ---
 
@@ -169,7 +170,7 @@ Use the tool below to make the next frame for your animation.
 
 --- task ---
 
-Add the next frame of your animation to your code, and display the frame and pause.
+Find the comment for each frame and add code to display the frame on the LED matrix then pause `1` second.
 
 --- code ---
 ---
@@ -181,6 +182,7 @@ line_highlights: 3-14
 ---
 sense.set_pixels(frame_1) 
 sleep(1)
+# Frame 2
 frame_2 = [
    b, b, l, l, l, l, b, b,
    b, l, l, l, f, l, l, b,
