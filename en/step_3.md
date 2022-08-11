@@ -65,20 +65,6 @@ frame_1 = [
 
 **Copy** and **paste** them inside your blank list. 
 
---- code ---
----
-language: python
-filename: main.py
-line_numbers: 
-line_number_start: 1
-line_highlights: 3
----
-# Animation
-frame_1 = [
-
-          ]
---- /code ---
-
 <mark>Add a gif to demo this</mark>
 
 You code should like this this, with your own colour variables inside.
@@ -112,25 +98,27 @@ frame_1 = [
 
 --- task ---
 
-Underneath your `frame_1` list, enter the code for displaying the colour values from your `frame_1` list onto your SenseHAT LED matrix. 
-
-[[[sh-show-pixels]]]
-
---- /task ---
-
---- task ---
-
-Underneath your `set_pixels` line of code, add a `sleep` to make sure that the frame pauses to give you time to see the image.
+Underneath your `frame_1` list, enter the code for displaying the colour values from your `frame_1` list onto your SenseHAT LED matrix and make it `sleep` for 1 second.
 
 --- code ---
 ---
 language: python
 filename: main.py
 line_numbers: false
-line_number_start: 
-line_highlights: 
+line_number_start: 1
+line_highlights: 11
 ---
-
+frame_1 = [
+  b, b, l, l, f, l, b, b,
+  b, l, f, l, l, l, f, b,
+  b, l, l, l, f, l, l, b,
+  b, f, l, l, l, l, l, b,
+  b, b, l, f, l, f, b, b,
+  b, b, b, t, t, b, b, b,
+  b, b, b, t, t, b, b, b,
+  g, g, g, g, g, g, g, g,
+  ]
+sense.set_pixels(frame_1)
 sleep(1) # Pause for 1 second
 --- /code ---
 
@@ -160,7 +148,9 @@ Use the tool below to make the remaining frames for your animation then add your
 
 <iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Change the frame number and the colour variables to match your frame count and design:
+Add the next frame of your animation to your code, and display the frame and pause.
+
+**Repeat** this for `frame_2`, `frame_3` and `frame_4`. 
 
 --- code ---
 ---
@@ -168,23 +158,24 @@ language: python
 filename: main.py
 line_numbers: false
 line_number_start: 
-line_highlights: 
+line_highlights: 3-14
 ---
-frame_x = [ # Change x to your frame number
-   a, a, a, a, a, a, a, a,
-   a, a, a, a, a, a, a, a,
-   a, a, a, a, a, a, a, a,
-   a, a, a, a, a, a, a, a,
-   a, a, a, a, a, a, a, a,
-   a, a, a, a, a, a, a, a,
-   a, a, a, a, a, a, a, a,
-   a, a, a, a, a, a, a, a
-]
-sense.set_pixels(frame_x) # Change x to your frame number
+sense.set_pixels(frame_1) 
+sleep(1)
+frame_2 = [
+   b, b, l, l, l, l, b, b,
+   b, l, l, l, f, l, l, b,
+   b, l, f, l, l, l, l, b,
+   b, l, l, l, f, l, f, b,
+   b, f, l, l, l, l, b, b,
+   b, b, b, f, t, f, b, b,
+   b, b, b, t, t, b, b, b,
+   g, g, g, g, g, g, g, g,
+  ]
+sense.set_pixels(frame_2) 
 sleep(1)
 --- /code ---
 
 --- /task ---
-
 
 --- save ---
