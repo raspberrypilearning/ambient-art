@@ -14,7 +14,7 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 What will be the theme of your animation? Perhaps: 
 + 🌈 Weather: A glowing rainbow, falling rain
 + 🐯 Animals: A swimming fish, a walking tiger
-+ 🪴 Nature: A growing plant, a crashing wave
++ 🌿 Nature: A growing plant, a crashing wave
 + 🚀 Travel: A spinning earth, a soaring rocket
 
 --- /task ---
@@ -25,7 +25,7 @@ What will be the theme of your animation? Perhaps:
 
 Your animation should have at least two colours. 
 
-[colour palette inspiration]
+[[[ambient-colours]]]
 
 --- /task ---
 
@@ -42,18 +42,6 @@ Design your animation frames.
 [print this and follow ingredient]
 
 [using graph (squared) paper]
-
---- /task ---
-
---- task ---
-
-**Choose** which letters to use for each of the colours in your colour palette. 
-
-**Tip:** use only one letter for each colour so that it is easier to read later on.
-
-Enter the letters to match the colours onto your design grid.
-
-![The letters are being added to the image in the design grid.](images/XXXX)
 
 --- /task ---
 

@@ -17,67 +17,87 @@ Open the [ambient art starter project](https://trinket.io/library/trinkets/4e773
 
 --- task ---
 
-**Create** the colour palette of variables for use in your animation. 
+Find the comment `# Colour palette` and enter the code for your colour palette.
 
---- collapse ---
----
-title: Create a colour palette
----
-
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 
-line_highlights: 
----
-# Colour palette
-
-a = (102, 205, 170) # Aquamarine
-s = (135, 206, 235) # SkyBlue
-
---- /code ---
-
---- /collapse ---
-
+[[[sh-colour-palette]]]
 
 [[[generic-theory-simple-colours]]]
 
 --- /task ---
 
+### Frame 1
+
 --- task ---
 
-**Create** your first frame. 
+Copy the design for your first frame into the tool below. 
 
 <iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
---- collapse ---
----
-title: Create a list to store an image
----
+--- /task ---
 
+--- task ---
 
---- /collapse ---
+**Create** a blank list to store your colour variables. 
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: 
+line_number_start: 
+line_highlights: 
+---
+frame_1 = [
+
+  ]
+--- /code ---
 
 --- /task ---
 
 --- task ---
 
-**Repeat** setup your remaining frames. 
+Highlight the values in the image creation tool above. 
 
---- collapse ---
----
-title: Create a list to store an image
----
+Copy and paste them inside your blank list. 
 
+<mark>Add a gif to demo this</mark>
 
-
---- /collapse ---
-
-**Tip:** Add a `sleep(1)` 
-
-[ingredient for one frame]
+**Tip**: To copy and paste you can highlight the text and then right click (tap and hold on mobile) and choose 'Copy'. Then click on the empty line inside the `frame_1` list, right click anc choose 'Paste'.
 
 --- /task ---
+
+--- task ---
+
+Enter code for displaying the colour values from your `frame_1` list onto your SenseHAT LED matrix. 
+
+[[[sh-show-pixels]]]
+
+--- /task ---
+
+--- task ---
+
+Add a `sleep` to make sure that the frame pauses to give you time to see the image.
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: false
+line_number_start: 
+line_highlights: 
+---
+sleep(1) # Pause for 1 second
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+**Test** your code by clicking Run.
+
+You should see the first frame of your animation on the LED matrix. 
+
+--- /task ---
+
+
 --- save ---
