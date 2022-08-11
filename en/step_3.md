@@ -159,9 +159,13 @@ I have a syntax error in my code!
 
 --- task ---
 
-Use the tool below to make the remaining frames for your animation then add your code for the remaining frames. 
+Use the tool below to make the next frame for your animation. 
 
 <iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+--- /task ---
+
+--- task ---
 
 Add the next frame of your animation to your code, and display the frame and pause.
 
