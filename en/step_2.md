@@ -25,7 +25,7 @@ What will be the theme of your animation? Perhaps:
 
 Your animation should have at least two colours. 
 
-[[[ambient-colours]]]
+![26 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
 
 --- /task ---
 
@@ -37,7 +37,7 @@ Design your animation frames.
 
 **Tip:** Start with a maximum of four frames for your animation. You can always add more later.
 
-![A sheet of squared paper with coloured pencils.](images/what-you-need.png)
+![A sheet of squared paper with coloured pencils.](images/what-you-need.png){:width="300px"}
 
 [print this and follow ingredient]
 
