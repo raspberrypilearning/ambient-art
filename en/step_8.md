@@ -1,5 +1,11 @@
 ## Share
 
+SWAP TO THE WAKELET COPY
+
+ADD IN ABOUT MISSION ZERO
+
+
+
 If you are in a club, why not share your project with friends?
 
 You could also show your family how your project works.
