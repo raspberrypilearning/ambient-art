@@ -71,16 +71,28 @@ If each loop of your animation takes **4 seconds** then you can reduce your numb
 
 **4 x 7 = 28**.
 
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
+---
+# --- Animation ---
+for i in range(7):
+--- /code ---
+
 --- collapse ---
 ---
 title: I need more help with the maths
 ---
 
-Here are some example scenarios. You can use this to help you with your calculations. 
+Here are some example scenarios. You can use these to help you with your calculations. 
 
-1. Add together the number of seconds in your code used for one loop.
+1. Add together the **number of seconds** in your code used for **one** loop.
 2. Find that number in the table below.
-3. Change the number in the brackets of your `for` loop to match the one in the table.
+3. Change the number in the brackets of your `for` loop to match the **number of repetitions** in the table.
 
 | Number of seconds | Number of repetitions |
 | --- | ----------- |
@@ -95,20 +107,7 @@ Here are some example scenarios. You can use this to help you with your calculat
 | 9 | 3 |
 | 10 | 2 |
 
-
 --- /collapse ---
-
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 2
----
-# --- Animation ---
-for i in range(7):
---- /code ---
 
 --- /task ---
 
