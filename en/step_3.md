@@ -157,11 +157,11 @@ I have a syntax error in my code!
 
 ### Create the remaining frames
 
+<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 --- task ---
 
 Use the tool below to make the remaining frames for your animation then add your code for the remaining frames. 
-
-<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Add the next frame of your animation to your code, and display the frame and pause.
 
