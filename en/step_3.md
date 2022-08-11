@@ -19,6 +19,21 @@ Open the [ambient art starter project](https://trinket.io/library/trinkets/4e773
 
 Find the comment `# Colour palette` and add variables for each of the colours in your animation design: 
 
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: 
+line_number_start: 1
+line_highlights: 2-5
+---
+# Colour palette
+i = (0, 128, 128) # Teal
+o = (128, 128, 0) # Olive
+w = (255, 192, 203) # Pink
+y = (153, 50, 204) # DarkOrchid
+--- /code ---
+
 [[[ambient-colours]]]
 
 [[[generic-theory-simple-colours]]]
@@ -33,7 +48,7 @@ Copy the design for your first frame into the tool below.
 
 **Tip:** Make sure you colour all the squares, even if they are 'white' in your design. 
 
-<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 
@@ -106,7 +121,7 @@ language: python
 filename: main.py
 line_numbers: false
 line_number_start: 1
-line_highlights: 11
+line_highlights: 11-12
 ---
 frame_1 = [
   b, b, l, l, f, l, b, b,
@@ -146,7 +161,7 @@ I have a syntax error in my code!
 
 Use the tool below to make the remaining frames for your animation then add your code for the remaining frames. 
 
-<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Add the next frame of your animation to your code, and display the frame and pause.
 
