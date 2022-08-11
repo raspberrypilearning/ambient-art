@@ -157,19 +157,19 @@ I have a syntax error in my code!
 
 ### Create the remaining frames
 
+**Repeat** the next two tasks for `frame_2`, `frame_3` and `frame_4`. 
+
 --- task ---
 
 Use the tool below to make the next frame for your animation. 
 
-<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
 --- /task ---
+
+<iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- task ---
 
 Add the next frame of your animation to your code, and display the frame and pause.
-
-**Repeat** this for `frame_2`, `frame_3` and `frame_4`. 
 
 --- code ---
 ---
