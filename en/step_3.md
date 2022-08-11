@@ -17,9 +17,7 @@ Open the [ambient art starter project](https://trinket.io/library/trinkets/4e773
 
 --- task ---
 
-Find the comment `# Colour palette` and create your colour palette. This should be for the colours that you have chosen to use in your image. 
-
-[[[sh-colour-palette]]]
+Find the comment `# Colour palette` and add variables for each of the colours in your animation design: 
 
 [[[ambient-colours]]]
 
@@ -50,12 +48,13 @@ Find the comment `# Animation`
 language: python
 filename: main.py
 line_numbers: 
-line_number_start: 
-line_highlights: 
+line_number_start: 1
+line_highlights: 2-4
 ---
+# Animation
 frame_1 = [
 
-  ]
+          ]
 --- /code ---
 
 --- /task ---
@@ -66,9 +65,44 @@ frame_1 = [
 
 **Copy** and **paste** them inside your blank list. 
 
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: 
+line_number_start: 1
+line_highlights: 3
+---
+# Animation
+frame_1 = [
+
+          ]
+--- /code ---
+
 <mark>Add a gif to demo this</mark>
 
-[[[sh-image-list]]]
+You code should like this this, with your own colour variables inside.
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 
+line_highlights: 
+---
+# Animation
+frame_1 = [
+  b, b, l, l, f, l, b, b,
+  b, l, f, l, l, l, f, b,
+  b, l, l, l, f, l, l, b,
+  b, f, l, l, l, l, l, b,
+  b, b, l, f, l, f, b, b,
+  b, b, b, t, t, b, b, b,
+  b, b, b, t, t, b, b, b,
+  g, g, g, g, g, g, g, g,
+  ]
+--- /code ---
 
 **Tip**: To copy and paste you can highlight the text and then right click (tap and hold on mobile) and choose 'Copy'. Then click on the empty line inside the `frame_1` list, right click and choose 'Paste'.
 
@@ -86,7 +120,7 @@ Underneath your `frame_1` list, enter the code for displaying the colour values 
 
 --- task ---
 
-Underneath your `show_pixels` line of code, add a `sleep` to make sure that the frame pauses to give you time to see the image.
+Underneath your `set_pixels` line of code, add a `sleep` to make sure that the frame pauses to give you time to see the image.
 
 --- code ---
 ---
@@ -96,6 +130,7 @@ line_numbers: false
 line_number_start: 
 line_highlights: 
 ---
+
 sleep(1) # Pause for 1 second
 --- /code ---
 
