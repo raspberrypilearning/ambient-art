@@ -7,7 +7,7 @@ legend: Question 2 of 3
 
 The code below creates an animation that has **2 frames**. Each frame will be displayed for **1 second**. The frames are inside a `for` loop which **repeats 5 times**.
 
-What will be the length of the total run time of the animation?
+What will be the total run time of the animation?
 
 --- code ---
 ---
