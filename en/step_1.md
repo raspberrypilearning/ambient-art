@@ -60,13 +60,13 @@ You can get some more ideas for your own animation by taking inspiration from th
 --- /no-print ---
 
 --- print-only ---
-![xxxx](images/solution.PNG)
+![alt=""](images/ambient-smile.PNG)
 
-![xxxx](images/solution.PNG)
+![alt=""](images/ambient-fruit-fall.PNG)
 
-![xxxx](images/solution.PNG)
+![alt=""](images/solution.PNG)
 
-![xxxx](images/solution.PNG)
+![alt=""](images/solution.PNG)
 --- /print-only ---
 
 
