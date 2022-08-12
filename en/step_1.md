@@ -25,7 +25,7 @@ Click on the **run** button and then adjust the colour in the Sense HAT emulator
 <div>
 **Ambient smiley face**: [See inside](https://trinket.io/html/040ae43756){:target="_blank"}
 
-<iframe src="https://trinket.io/embed/html/040ae43756?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/040ae43756?outputOnly=true&runOption=run" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 
