@@ -10,12 +10,12 @@ If you would like to extend your project further then you can use some of the id
 You could:
 
 + Add some more frames to your animation 
-+ + Remember to adjust the timings if you do this!
+  + Remember to adjust the timings if you do this!
 + Sense the colour after each frame so that it updates during the loop
 + Speed up or slow down your animation 
-+ + Remember to ensure that your animation is less than 30 seconds!
+  + Remember to ensure that your animation is less than 30 seconds!
 + Introduce some additional colours to your design
-+ + Remember to also update your colour palette
+  + Remember to also update your colour palette
 
 --- /task ---
 
