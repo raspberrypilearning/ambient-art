@@ -64,7 +64,7 @@ Find the comment `# Frame 1`
 ---
 language: python
 filename: main.py
-line_numbers: 
+line_numbers: false
 line_number_start: 1
 line_highlights: 2-4
 ---
@@ -90,7 +90,7 @@ Your code should like this this, with your own colour variables inside.
 ---
 language: python
 filename: main.py
-line_numbers: true
+line_numbers: false
 line_number_start: 
 line_highlights: 
 ---
