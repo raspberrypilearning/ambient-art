@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Design your choose your colour palette and design your animation.
+Choose your colour palette and design your animation.
 </div>
 <div>
 ![A sheet of squared paper with coloured pencils.](images/what-you-need.png){:width="300px"}
