@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sense the ambient colour of the environment and use this to adapt your animation.
+Sense the ambient colour of the environment and use this to adapt your animation. Use a `for` loop to repeat your animation.
 </div>
 <div>
 ![An animation of a tree with fruit falling down on the SenseHAT LED matrix. The colour sensor value is changed and this is replicated in the image.](images/step-four-output.gif){:width="300px"}
