@@ -44,7 +44,20 @@ Design your animation frames.
 <mark>Need to update with pics of examples</mark>
 [print this and follow ingredient]
 
-[using graph (squared) paper]
+--- collapse ---
+---
+title: Design using squared (graph) paper
+---
+
+If you don't have access to a printer then you can use squared (graph) paper or plain paper to create your design.
+
+For each frame, draw an 8 x 8 grid on your paper.
+
+Select a minimum of two coloured pencils or felt tip pens to colour in your drawing. 
+
+![Photograph of four frames being hand drawn onto some squared paper.](images/squared-paper.jpg){:width="300px"}
+
+--- /collapse ---
 
 --- /task ---
 
