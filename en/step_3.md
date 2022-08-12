@@ -82,7 +82,7 @@ frame_1 = [
 
 **Copy** and **paste** them inside your blank list. 
 
-<mark>Add a gif to demo this</mark>
+![An animation showing the text inside the squares of the image drawing tool being copy and pasted into the python code.](images/copy-paste-demo.gif)
 
 Your code should like this this, with your own colour variables inside.
 
