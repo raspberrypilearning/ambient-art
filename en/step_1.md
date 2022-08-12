@@ -60,12 +60,17 @@ You can get some more ideas for your own animation by taking inspiration from th
 --- /no-print ---
 
 --- print-only ---
+
+**Ambient smile**
 ![alt=""](images/ambient-smile.PNG)
 
+**Ambient fruit fall**
 ![alt=""](images/ambient-fruit-fall.PNG)
 
+**Title**
 ![alt=""](images/solution.PNG)
 
+**Title**
 ![alt=""](images/solution.PNG)
 --- /print-only ---
 
