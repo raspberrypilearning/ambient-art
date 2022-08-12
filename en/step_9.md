@@ -1,8 +1,10 @@
 ## What next?
 
-If you are following the [PathName](https://projects.raspberrypi.org/en/raspberrypi/path-name) path, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+If you are following the [Introduction to the SenseHAT](https://projects.raspberrypi.org/en/raspberrypi/sense-intro) path, you can move on to the [XXXX](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
 
 --- print-only ---
+
+<mark>TO FOLLOW</mark>
 
 ![ProjectName project](images/projectname-project.png)
 

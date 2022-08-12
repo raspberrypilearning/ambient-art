@@ -8,7 +8,7 @@ In this project you will create a piece of ambient artwork that displays on the 
 
 You will:
 
-+ Take readings from the SenseHAT colour sensor.
++ Take readings from the SenseHAT colour sensor
 + Design an animation that adapts to the environment
 + Create a 30 second animation using a loop 
 
