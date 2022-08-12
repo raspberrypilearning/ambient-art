@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will set up your frames for the animation. 
+Set up the frames for your animation and check that you are happy with it through testing.  
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![An animation of a smiley face winking on the LED matrix of a SenseHAT.](images/step-three-output.gif){:width="300px"}
 </div>
 </div>
 
@@ -84,7 +84,7 @@ frame_1 = [
 
 <mark>Add a gif to demo this</mark>
 
-You code should like this this, with your own colour variables inside.
+Your code should like this this, with your own colour variables inside.
 
 --- code ---
 ---
@@ -123,7 +123,7 @@ language: python
 filename: main.py
 line_numbers: false
 line_number_start: 1
-line_highlights: 11-12
+line_highlights: 12-13
 ---
 # Frame 1
 frame_1 = [
@@ -148,7 +148,7 @@ sleep(1) # Pause for 1 second
 
 You should see the first frame of your animation on the LED matrix. 
 
-![The first frame appearing on the LED matrix showing a tree with fruit.](images/tree_frame_1.png)
+![The first frame appearing on the LED matrix showing a smiley face.](images/step-three-frame-one.PNG)
 
 **Debug**:
 
@@ -179,8 +179,8 @@ Find the comment for each frame and add code to display the frame on the LED mat
 language: python
 filename: main.py
 line_numbers: false
-line_number_start: 
-line_highlights: 3-14
+line_number_start: 1
+line_highlights: 3-15
 ---
 sense.set_pixels(frame_1) 
 sleep(1)
@@ -198,6 +198,14 @@ frame_2 = [
 sense.set_pixels(frame_2) 
 sleep(1)
 --- /code ---
+
+--- /task ---
+
+--- task ---
+
+**Test**: Run your code and make sure that you can view all four frames of your animation.
+
+![An animation of a smiley face winking on the LED matrix of a SenseHAT.](images/step-three-output.gif){:width="300px"}
 
 --- /task ---
 
