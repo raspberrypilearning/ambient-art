@@ -40,20 +40,30 @@ Design your animation frames.
 
 **Tip:** Start with a maximum of four frames for your animation. You can always add more later.
 
+--- collapse ---
+---
+title: Design using our template
+---
 
-<mark>Need to update with pics of examples</mark>
-[print this and follow ingredient]
+1. Open the [template](){:target="_blank"}.
+
+2. Print on either a colour or black and white printer.
+
+3. Follow the instructions on the template. 
+
+--- /collapse ---
+
 
 --- collapse ---
 ---
-title: Design using squared (graph) paper
+title: Design using squared or plain paper
 ---
 
 If you don't have access to a printer then you can use squared (graph) paper or plain paper to create your design.
 
-For each frame, draw an 8 x 8 grid on your paper.
++ For each frame, draw an 8 x 8 grid on your paper.
 
-Select a minimum of two coloured pencils or felt tip pens to colour in your drawing. 
++ Select a minimum of two coloured pencils or felt tip pens to colour in your drawing. 
 
 ![Photograph of four frames being hand drawn onto some squared paper.](images/squared-paper.jpg){:width="300px"}
 
