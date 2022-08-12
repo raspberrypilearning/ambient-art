@@ -38,7 +38,7 @@ frame_1 = [
 
 --- choices ---
 
-- ( ) ![The image presented uses four colours to make up the image of a tree with fruit growing on it.](../../en/images/q1-image-2.PNG)
+- ( ) ![The image presented uses four colours to make up the image of a tree with fruit growing on it.](../images/q1-image-2.PNG)
 
   --- feedback ---
 
@@ -46,7 +46,7 @@ Try again. There is a lot of detail in this image and it uses four colours. The 
 
   --- /feedback ---
 
-- (x) ![The image presented uses two colours to create the shape of a smiley face.](../../en/images/q1-image-1.PNG)
+- (x) ![The image presented uses two colours to create the shape of a smiley face.](../images/q1-image-1.PNG)
 
   --- feedback ---
 
