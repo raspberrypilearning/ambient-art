@@ -45,11 +45,17 @@ Design your animation frames.
 title: Design using our template
 ---
 
-1. Open the [template](){:target="_blank"}.
+1. Open the [template](resources/design-template.pdf){:target="_blank"}.
+
+<mark>[Editable](https://docs.google.com/presentation/d/1Qbx0VebcCy_dSR3SuC_7uuODJHOaa95kVkw3uLrzsPs/edit#slide=id.p) version if needed</mark>
 
 2. Print on either a colour or black and white printer.
 
-3. Follow the instructions on the template. 
+3. Select a minimum of two coloured pencils or felt tip pens to colour in your frames.  
+
+**Tip**: Make sure that you use colours from the colour palette!
+
+![26 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
 
 --- /collapse ---
 
@@ -63,9 +69,13 @@ If you don't have access to a printer then you can use squared (graph) paper or 
 
 + For each frame, draw an 8 x 8 grid on your paper.
 
-+ Select a minimum of two coloured pencils or felt tip pens to colour in your drawing. 
-
 ![Photograph of four frames being hand drawn onto some squared paper.](images/squared-paper.jpg){:width="300px"}
+
++ Select a minimum of two coloured pencils or felt tip pens to colour in your frames. 
+
+**Tip**: Make sure that you use colours from the colour palette!
+
+![26 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
 
 --- /collapse ---
 
