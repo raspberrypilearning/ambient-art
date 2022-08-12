@@ -166,6 +166,8 @@ I have a syntax error in my code!
 
 Use the tool below to make the remaining frames for your animation. 
 
+**Tip**: You will need to overwrite the image for each new frame.
+
 --- /task ---
 
 <iframe src="https://trinket.io/embed/html/d017077cff?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -206,6 +208,14 @@ sleep(1)
 **Test**: Run your code and make sure that you can view all four frames of your animation.
 
 ![An animation of a smiley face winking on the LED matrix of a SenseHAT.](images/step-three-output.gif){:width="300px"}
+
+**Debug**:
+
+It isn't showing all of my frames!
++ Make sure that you have included the code for setting the pixels on the LED matrix
++ Make sure that you have used `sleep()` between each frame
++ Make sure that you have renamed each new frame. You should have four frames called `frame_1`, `frame_2`, `frame_3` and `frame_4`. 
++ Make sure that you have added code to display each frame within the brackets of `sense.set_pixels(frame_2)` 
 
 --- /task ---
 
