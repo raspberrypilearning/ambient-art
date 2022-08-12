@@ -31,42 +31,29 @@ Click on the **run** button and then adjust the colour in the Sense HAT emulator
 
 --- /task ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Try it 
-
---- task ---
-
-Click on the **run** button and then adjust the colour in the Sense HAT emulator. What change can you see in the animation? 
-
-<iframe src="https://trinket.io/embed/python/040ae43756" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
---- /task ---
-
 ### Get inspiration 
 
-<mark>Add more examples when done</mark>
+You can get some more ideas for your own animation by taking inspiration from the projects below. 
 
 --- task ---
 
-Explore these example projects to get more ideas:
+<div>
+**Ambient fruit fall**: [See inside](https://trinket.io/html/90d07072bc){:target="_blank"}
 
-X: See inside
-<iframe src="https://trinket.io/embed/python/90d07072bc" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/90d07072bc?outputOnly=true&runOption=run" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
 
-Y: See inside
-<iframe src="https://trinket.io/embed/python/d529175079" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<div>
+**Ambient fruit fall**: [See inside](https://trinket.io/html/90d07072bc){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/python/90d07072bc?outputOnly=true&runOption=run" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+
+<div>
+**Ambient fruit fall**: [See inside](https://trinket.io/html/90d07072bc){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/python/90d07072bc?outputOnly=true&runOption=run" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
 
 --- /task ---
 
