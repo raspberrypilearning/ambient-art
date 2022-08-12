@@ -12,7 +12,6 @@ You will:
 + Design an animation that adapts to the environment
 + Create a 30 second animation using a loop 
 
-
 --- no-print ---
 
 --- task ---
@@ -44,15 +43,15 @@ You can get some more ideas for your own animation by taking inspiration from th
 </div>
 
 <div>
-**Ambient fruit fall**: [See inside](https://trinket.io/html/90d07072bc){:target="_blank"}
+**Ambient painting**: [See inside](https://trinket.io/html/3503ae484a){:target="_blank"}
 
-<iframe src="https://trinket.io/embed/python/90d07072bc?outputOnly=true&runOption=run" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/3503ae484a?outputOnly=true&runOption=run" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 <div>
-**Ambient fruit fall**: [See inside](https://trinket.io/html/90d07072bc){:target="_blank"}
+**Ambient roller coaster**: [See inside](https://trinket.io/html/90c88bdcdd){:target="_blank"}
 
-<iframe src="https://trinket.io/embed/python/90d07072bc?outputOnly=true&runOption=run" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/90c88bdcdd?outputOnly=true&runOption=run" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /task ---
@@ -67,11 +66,11 @@ You can get some more ideas for your own animation by taking inspiration from th
 **Ambient fruit fall**
 ![alt=""](images/ambient-fruit-fall.PNG)
 
-**Title**
-![alt=""](images/solution.PNG)
+**Ambient painting**
+![alt=""](images/ambient-painting.PNG)
 
-**Title**
-![alt=""](images/solution.PNG)
+**Ambient roller coaster**
+![alt=""](images/ambient-coaster.PNG)
 --- /print-only ---
 
 
