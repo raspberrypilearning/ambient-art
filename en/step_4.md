@@ -5,7 +5,7 @@
 Sense the ambient colour of the environment and use this to adapt your animation.
 </div>
 <div>
-![](images/image.png){:width="300px"}
+![An animation of a tree with fruit falling down on the SenseHAT LED matrix. The colour sensor value is changed and this is replicated in the image.](images/step-four-output.gif){:width="300px"}
 </div>
 </div>
 
@@ -148,6 +148,8 @@ If you want to quickly indent a whole chunk of code then **highlight** it and th
 --- task ---
 
 **Test** Run your code and change the colour picker several times as your project is running. Check that your animation updates to use the sensed colour on it's next run of the animation. 
+
+![An animation of a tree with fruit falling down on the SenseHAT LED matrix. The colour sensor value is changed and this is replicated in the image.](images/step-four-output.gif){:width="300px"}
 
 **Debug**:
 I have a syntax error!
