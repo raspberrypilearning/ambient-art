@@ -25,7 +25,7 @@ Find the comment `# Colour palette` and add variables for each of the colours in
 ---
 language: python
 filename: main.py
-line_numbers: 
+line_numbers: false
 line_number_start: 1
 line_highlights: 2-5
 ---
