@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will create a piece of ambient artwork that displays on the SenseHAT to match its environment. 
+Create a piece of ambient artwork that displays on the SenseHAT to match its environment. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">Ambient lighting</span> is used by many devices to allow users to have an immersive entertainment experience. Ambient lighting creates a mood by copying the colours of an object or image in the nearby area. For example, LED lighting strips can be placed around a television screen to replicate the most common colours being displayed in the video.
