@@ -47,8 +47,6 @@ title: Design using our template
 
 1. Open the [template](resources/design-template.pdf){:target="_blank"}.
 
-<mark>[Editable](https://docs.google.com/presentation/d/1Qbx0VebcCy_dSR3SuC_7uuODJHOaa95kVkw3uLrzsPs/edit#slide=id.p) version if needed</mark>
-
 2. Print on either a colour or black and white printer.
 
 3. Select a minimum of two coloured pencils or felt tip pens to colour in your frames.  
