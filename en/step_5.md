@@ -5,7 +5,7 @@
 In this step you will adjust the timings of your animation to make sure that it is under 30 seconds long.
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![An animation of a smiley face winking on the LED matrix of a SenseHAT.](images/step-five-output.gif){:width="300px"}
 </div>
 </div>
 
@@ -126,6 +126,8 @@ Here are some example scenarios. You can use these to help you with your calcula
 --- task ---
 
 **Test**: Click Run and test your code. Make sure that there are no syntax errors and that the colour detection is still working. 
+
+![An animation of a smiley face winking on the LED matrix of a SenseHAT.](images/step-five-output.gif){:width="300px"}
 
 You now have a completed animation!
 
