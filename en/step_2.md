@@ -40,23 +40,10 @@ Design your animation frames.
 
 **Tip:** Start with a maximum of four frames for your animation. You can always add more later.
 
---- collapse ---
----
-title: Design using our template
----
+[[[design-template]]]
 
-1. Open the [template](resources/design-template.pdf){:target="_blank"}.
-
-2. Print on either a colour or black and white printer.
-
-3. Select a minimum of two coloured pencils or felt tip pens to colour in your frames.  
-
-**Tip**: Make sure that you use colours from the colour palette!
-
+<mark>show the colour palette</mark>
 ![26 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
-
---- /collapse ---
-
 
 --- collapse ---
 ---
