@@ -58,7 +58,7 @@ If you don't have access to a printer then you can use squared (graph) paper or 
 
 **Tip**: Make sure that you use colours from the colour palette!
 
-![24 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
+![24 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png){:width="400px"}
 
 --- /collapse ---
 
