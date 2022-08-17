@@ -17,32 +17,36 @@ Sense the ambient colour of the environment and use this to adapt your animation
 
 --- task ---
 
-**Find** the `# --- Animation ---` comment and add code to update your chosen ambient colour to the colour sensed by the SenseHAT colour sensor. 
+**Find** your animation function under the `# Animation based on the colour sensor` comment and add code to update **your chosen** ambient colour to the colour sensed by the SenseHAT colour sensor. 
 
 --- code ---
 ---
 language: python
 filename: main.py
 line_numbers: false
-line_number_start: 
-line_highlights: 2
+line_number_start: 1
+line_highlights: 4
 ---
-# --- Animation ---
-f = sense.colour.colour[0:3] # Store the sensor readings
-
-# Frame 1
-frame_1 = [
-   b, b, l, l, f, l, b, b,
-   b, l, f, l, l, l, f, b,
-   b, l, l, l, f, l, l, b,
-   b, f, l, l, l, l, l, b,
-   b, b, l, f, l, f, b, b,
-   b, b, b, t, t, b, b, b,
-   b, b, b, t, t, b, b, b,
-   g, g, g, g, g, g, g, g
-   ]
+# Animation based on the colour sensor
+def painting():
+  
+  e = sense.colour.colour[0:3] # Store the sensor readings
+  
+  # Frame 1
+  frame_1 = [
+    a, a, a, a, u, u, a, a, 
+    a, a, a, u, u, u, a, a, 
+    a, a, u, u, u, a, a, a, 
+    a, a, u, u, a, a, a, a, 
+    q, q, a, a, a, a, a, a, 
+    q, q, a, a, a, a, a, a, 
+    e, e, a, a, a, a, a, a, 
+    a, a, a, a, a, a, a, a
+  ]
  
 --- /code ---
+
+**Tip** In the example above, the `e` variable will be the colour that changes based on the colour sensor reading. 
 
 --- /task ---
 
@@ -70,7 +74,7 @@ A better way to change your animation to match the ambient colour is to loop you
 
 --- task ---
 
-**Find** the `# --- Animation ---` comment and below add a line of code to loop your animation `10` times. 
+**Find** the `# Looped animation` comment add a line of code to loop your animation `10` times. 
 
 --- code ---
 ---
@@ -80,21 +84,9 @@ line_numbers: false
 line_number_start: 1 
 line_highlights: 2
 ---
-# --- Animation ---
+# Looped animation 
 for i in range(10):
-f = sense.colour.colour[0:3] # Store the sensor readings
-
-# Frame 1
-frame_1 = [
-   b, b, l, l, f, l, b, b,
-   b, l, f, l, l, l, f, b,
-   b, l, l, l, f, l, l, b,
-   b, f, l, l, l, l, l, b,
-   b, b, l, f, l, f, b, b,
-   b, b, b, t, t, b, b, b,
-   b, b, b, t, t, b, b, b,
-   g, g, g, g, g, g, g, g
-   ]
+painting()
  
 --- /code ---
 
@@ -102,9 +94,9 @@ frame_1 = [
 
 --- task ---
 
-You now need to indent your animation code so that it sits **inside** the `for` loop.
+You now need to indent your function call so that it sits **inside** the `for` loop.
 
-To do this, Use the **Tab** character on your keyboard before each line of code to indent them. 
+To do this, Use the **Tab** character on your keyboard. 
 
 --- code ---
 ---
@@ -112,36 +104,13 @@ language: python
 filename: main.py
 line_numbers: false
 line_number_start: 1 
-line_highlights: 2
+line_highlights: 3
 ---
-# --- Animation ---
+# Looped animation 
 for i in range(10):
-  f = sense.colour.colour[0:3] # Store the sensor readings
-
-  # Frame 1
-  frame_1 = [
-    b, b, l, l, f, l, b, b,
-    b, l, f, l, l, l, f, b,
-    b, l, l, l, f, l, l, b,
-    b, f, l, l, l, l, l, b,
-    b, b, l, f, l, f, b, b,
-    b, b, b, t, t, b, b, b,
-    b, b, b, t, t, b, b, b,
-    g, g, g, g, g, g, g, g
-  ]
+  painting()
  
 --- /code ---
-
---- collapse ---
----
-title: Quickly indent a chunk of code
----
-
-If you want to quickly indent a whole chunk of code then **highlight** it and then press the **tab** key on your keyboard. 
-
-![An animation showing a chunk of code being indented in one go by using the tab key.](images/tab-code.gif){:width="300px"}
-
---- /collapse ---
 
 --- /task ---
 

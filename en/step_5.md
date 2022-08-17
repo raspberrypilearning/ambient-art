@@ -30,11 +30,11 @@ line_numbers: false
 line_number_start: 1
 line_highlights: 2
 ---
-# --- Animation ---
+# Looped animation
 for i in range(10): # Loop 10 times
 --- /code ---
 
-The animation is within a loop which repeats it **10 times**. This means the total animation run time is **4 x 10 = 40** to make a **40 second** animation.
+The animation call is within a loop which repeats **10 times**. This means the total animation run time is **4 x 10 = 40** to make a **40 second** animation.
 
 --- /collapse ---
 
@@ -91,7 +91,7 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 2
 ---
-# --- Animation ---
+# Looped animation
 for i in range(7):
 --- /code ---
 
