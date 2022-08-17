@@ -197,7 +197,7 @@ painting()
 
 You should see the first frame of your animation on the LED matrix. 
 
-![The first frame appearing on the LED matrix showing a smiley face.](images/step-three-frame-one.PNG)
+![The first frame appearing on the LED matrix showing an animal face.](images/step-three-frame-one.PNG)
 
 **Debug**:
 

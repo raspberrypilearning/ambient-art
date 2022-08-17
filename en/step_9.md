@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [Introduction to the SenseHAT](https://projects.raspberrypi.org/en/raspberrypi/sense-intro) path, you can move on to the [XXXX](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+If you are following the [Introduction to the SenseHAT](https://projects.raspberrypi.org/en/raspberrypi/sense-hat-intro) path, you can move on to the [XXXX](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
 
 <mark>TO BE DONE WHEN NEXT PROJECT IS READY</mark>
 
