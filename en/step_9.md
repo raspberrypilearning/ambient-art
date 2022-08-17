@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [Introduction to the SenseHAT](https://projects.raspberrypi.org/en/raspberrypi/sense-hat-intro) path, you can move on to the [XXXX](https://projects.raspberrypi.org/en/projects/monitor-this) project. In this project, you will make a tool that monitors the environment and produces text and an image to represent the sensed conditions.
+If you are following the [Introduction to the SenseHAT](https://projects.raspberrypi.org/en/raspberrypi/sense-hat-intro) path, you can move on to the [Monitor this!](https://projects.raspberrypi.org/en/projects/monitor-this) project. In this project, you will make a tool that monitors the environment and produces text and an image to represent the sensed conditions.
 
 --- no-print ---
 
