@@ -19,7 +19,9 @@ Open the [ambient art starter project](https://trinket.io/library/trinkets/4e773
 
 --- task ---
 
-Find the comment `# Colour palette` and add variables for each of the colours in your animation design: 
+Find the comment `# Colour palette` and add variables for each of the colours you have chosen for your animation: 
+
+![The design worksheet with a frog drawn in crayon on the grid. The colours used are black, white, red, and green.](images/frog.png){:width="300px"}
 
 --- code ---
 ---
@@ -30,10 +32,10 @@ line_number_start: 1
 line_highlights: 2-5
 ---
 # Colour palette
-i = (0, 128, 128) # Teal
-o = (128, 128, 0) # Olive
-w = (255, 192, 203) # Pink
-y = (153, 50, 204) # DarkOrchid
+c = (0, 0, 0) # Black
+a = (255, 255, 255) # White
+v = (255, 0, 0) # Red
+m = (34, 139, 34) # ForestGreen
 --- /code ---
 
 [[[ambient-colours]]]
@@ -42,11 +44,33 @@ y = (153, 50, 204) # DarkOrchid
 
 --- /task ---
 
+### Setup the function for your animation
+
+--- task ---
+
+Find the comment `# Animation based on the colour sensor`. 
+
+Enter code to setup your animation function. Think of a sensible name to represent your animation. 
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: false
+line_number_start: 1
+line_highlights: 2
+---
+# Animation based on the colour sensor
+def fruit_fall():
+--- /code ---
+
+--- /task ---
+
 ### Frame 1
 
 --- task ---
 
-Copy the design for your first frame into the tool below. 
+Copy the design for your first frame into the tool below by clicking on the colour in the colour palette and then on the square you want to colour. 
 
 **Tip:** Make sure you colour all the squares, even if they are 'white' in your design. 
 
@@ -56,9 +80,11 @@ Copy the design for your first frame into the tool below.
 
 --- task ---
 
-Find the comment `# Frame 1`
+Find the comment `# Frame 1`.
 
-**Create** a blank list to store your first frame. 
+**Create** a blank list to store your first frame.
+
+Remember to **indent** your code inline with the `# Frame 1` comment so that it sits inside the function. 
 
 --- code ---
 ---
@@ -66,12 +92,15 @@ language: python
 filename: main.py
 line_numbers: false
 line_number_start: 1
-line_highlights: 2-4
+line_highlights: 5-7
 ---
-# Frame 1
-frame_1 = [
+# Animation based on the colour sensor
+def painting():
+  
+  # Frame 1
+  frame_1 = [
 
-          ]
+  ]
 --- /code ---
 
 --- /task ---
@@ -144,6 +173,26 @@ sleep(1) # Pause for 1 second
 
 --- task ---
 
+Find the comment `# Looped animation`.
+
+Enter the function call for your animation function. Remember this has to match the name you used when creating your function. 
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
+---
+# Looped animation 
+painting()
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
 **Test** your code by clicking Run.
 
 You should see the first frame of your animation on the LED matrix. 
@@ -182,10 +231,11 @@ language: python
 filename: main.py
 line_numbers: false
 line_number_start: 1
-line_highlights: 3-15
+line_highlights: 4-16
 ---
 sense.set_pixels(frame_1) 
 sleep(1)
+
 # Frame 2
 frame_2 = [
    b, b, l, l, l, l, b, b,

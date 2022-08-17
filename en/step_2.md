@@ -11,14 +11,15 @@ Choose your colour palette and design your animation.
 
 --- task ---
 
-What will be the theme of your animation? Perhaps: 
-+ 🌈 Weather: A glowing rainbow, falling rain
-+ 🐯 Animals: A swimming fish, a walking tiger
-+ 🌿 Nature: A growing plant, a crashing wave
-+ 🚀 Travel: A spinning earth, a soaring rocket
-+ ⚾ Sport: A flying ball, a swimming athlete
-+ 🎨 Art: A brush painting, paint splatter growing
-+ 🎢 Adventure: A roller coaster, a treasure map 
+What will be the theme of your animation? It could be: 
++ 🌈 **Weather:** A glowing rainbow, falling rain
++ 🐯 **Animals:** A swimming fish, a walking tiger
++ 🌿 **Nature:** A growing plant, a crashing wave
++ 🚀 **Travel:** A spinning earth, a soaring rocket
++ ⚾ **Sport:** A flying ball, a swimming athlete
++ 🎨 **Art:** A brush painting, paint splatter growing
++ 🎢 **Adventure:** A roller coaster, a treasure map 
++ Or something else
 
 --- /task ---
 
@@ -28,7 +29,7 @@ What will be the theme of your animation? Perhaps:
 
 Your animation should have at least two colours. Decide which colours your design will use.
 
-![26 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
+![24 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
 
 --- /task ---
 
@@ -41,9 +42,6 @@ Design your animation frames.
 **Tip:** Start with a maximum of four frames for your animation. You can always add more later.
 
 [[[design-template]]]
-
-<mark>show the colour palette</mark>
-![26 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
 
 --- collapse ---
 ---
@@ -60,7 +58,7 @@ If you don't have access to a printer then you can use squared (graph) paper or 
 
 **Tip**: Make sure that you use colours from the colour palette!
 
-![26 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
+![24 coloured squares each with a different colour from a range across the colour spectrum.](images/colour-palette.png)
 
 --- /collapse ---
 
