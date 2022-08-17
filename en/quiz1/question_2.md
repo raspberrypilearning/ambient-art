@@ -5,9 +5,9 @@
 legend: Question 2 of 3
 ---
 
-The code below creates an animation that has **2 frames**. Each frame will be displayed for **1 second**. The frames are inside a `for` loop which **repeats 5 times**.
+The code below uses a `for` loop to call the animation `tree_fall()` **5 times**. The `tree_fall()` animation has **2 frames**, each frame is displayed for **1 second**. 
 
-What will be the total run time of the animation?
+What will be the **total run time** of the animation?
 
 --- code ---
 ---
@@ -17,32 +17,8 @@ line_numbers: false
 line_number_start: 
 line_highlights: 
 ---
-for i in range(5):
-  f = sense.colour.colour[0:3] # Store the sensor readings
-  tree_full = [
-   b, b, l, l, f, l, b, b,
-   b, l, f, l, l, l, f, b,
-   b, l, l, l, f, l, l, b,
-   b, f, l, l, l, l, l, b,
-   b, b, l, f, l, f, b, b,
-   b, b, b, t, t, b, b, b,
-   b, b, b, t, t, b, b, b,
-   g, g, g, g, g, g, g, g,
-  ]
-  sense.set_pixels(tree_full)
-  sleep(1)
-  fruit_fall1 = [
-   b, b, l, l, l, l, b, b,
-   b, l, l, l, f, l, l, b,
-   b, l, f, l, l, l, l, b,
-   b, l, l, l, f, l, f, b,
-   b, f, l, l, l, l, b, b,
-   b, b, b, f, t, f, b, b,
-   b, b, b, t, t, b, b, b,
-   g, g, g, g, g, g, g, g,
-  ]
-  sense.set_pixels(fruit_fall1)
-  sleep(1)
+for i in range(5): # Repeat 5 times
+  tree_fall() # Run a 2 second animation
 --- /code ---
 
 --- choices ---
